@@ -15,7 +15,7 @@ Gemini会员包含目前包含两种订阅计划，分别是Google Ai Pro和Goog
 
 不过，虽然有了Google账号登录Gemini网站，如果国内用户用+86绑定的手机号码，在升级过程中，仍然会卡在不支持当地区升级，无法成功订阅，这应该是大部分人会遇到的问题，如图所示：
 
-\<img width="2560" height="897" alt="image" src="https://github.com/user-attachments/assets/b66e34a0-b9af-4157-bf47-65aed9e323ef" />
+<img width="2560" height="897" alt="image" src="https://github.com/user-attachments/assets/b66e34a0-b9af-4157-bf47-65aed9e323ef" />
 
 针对开通Gemini Advanced账号无法订阅情况，有两种方法解决，仅供参考：
 
